@@ -8,3 +8,6 @@ UC37 math is an educational math flashcard program that runs on python and pygam
 ```bash
 git clone https://github.com/Mrpi314tech/UC37math && chmod +x ~/UC37math/UC37math.sh
 ```
+
+<img src="https://raw.githubusercontent.com/Mrpi314tech/UC37math/main/mathwindow.png" alt="Mrpi314 logo"
+  width =500>
