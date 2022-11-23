@@ -2,6 +2,14 @@
   width =250>
 # Welcom to UC37math!
 UC37 math is an educational math flashcard program that runs on python and pygame to help you learn math.
+<h2>Required python packages</h2>
+
+```bash
+pip install pyttsx3
+```
+```bash
+pip install pygame
+```
 
 <h2>To install:</h2>
 
