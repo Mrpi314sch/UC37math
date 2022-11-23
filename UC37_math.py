@@ -494,7 +494,6 @@ def subtract():
     subtraction(random.choice(subdif),random.choice(subdif))
 while True:
     level=correct//60 + 1
-    print(level)
     display_surface.fill(blue)
     display_surface.blit(pygame.font.Font('freesansbold.ttf', 60).render("Welcome to UC37 math!", True, blue, white), (50, 0))
     display_surface.blit(pygame.font.Font('freesansbold.ttf', 100).render("x", True, blue, white), (250, 100))
